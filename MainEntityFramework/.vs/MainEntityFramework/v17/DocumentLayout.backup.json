@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67CD3333-2C1B-4D8C-9484-52ABA96AADC6}|MainEntityFramework\\MainEntityFramework.csproj|c:\\users\\offic\\source\\repos\\mainentityframework\\mainentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CD3333-2C1B-4D8C-9484-52ABA96AADC6}|MainEntityFramework\\MainEntityFramework.csproj|solutionrelative:mainentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CD3333-2C1B-4D8C-9484-52ABA96AADC6}|MainEntityFramework\\MainEntityFramework.csproj|c:\\users\\offic\\source\\repos\\mainentityframework\\mainentityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67CD3333-2C1B-4D8C-9484-52ABA96AADC6}|MainEntityFramework\\MainEntityFramework.csproj|solutionrelative:mainentityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CD3333-2C1B-4D8C-9484-52ABA96AADC6}|MainEntityFramework\\MainEntityFramework.csproj|c:\\users\\offic\\source\\repos\\mainentityframework\\mainentityframework\\models\\employeeaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CD3333-2C1B-4D8C-9484-52ABA96AADC6}|MainEntityFramework\\MainEntityFramework.csproj|solutionrelative:mainentityframework\\models\\employeeaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Migrations\\20241112035406_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainEntityFramework\\Migrations\\20241112035406_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CD3333-2C1B-4D8C-9484-52ABA96AADC6}|MainEntityFramework\\MainEntityFramework.csproj|c:\\users\\offic\\source\\repos\\mainentityframework\\mainentityframework\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CD3333-2C1B-4D8C-9484-52ABA96AADC6}|MainEntityFramework\\MainEntityFramework.csproj|solutionrelative:mainentityframework\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CD3333-2C1B-4D8C-9484-52ABA96AADC6}|MainEntityFramework\\MainEntityFramework.csproj|c:\\users\\offic\\source\\repos\\mainentityframework\\mainentityframework\\controllers\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CD3333-2C1B-4D8C-9484-52ABA96AADC6}|MainEntityFramework\\MainEntityFramework.csproj|solutionrelative:mainentityframework\\controllers\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241112035406_first.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Migrations\\20241112035406_first.cs",
+              "RelativeDocumentMoniker": "MainEntityFramework\\Migrations\\20241112035406_first.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Migrations\\20241112035406_first.cs",
+              "RelativeToolTip": "MainEntityFramework\\Migrations\\20241112035406_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:54:06.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "MainEntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Program.cs*",
+              "RelativeToolTip": "MainEntityFramework\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:52:17.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "employeeAddress.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Models\\employeeAddress.cs",
+              "RelativeDocumentMoniker": "MainEntityFramework\\Models\\employeeAddress.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Models\\employeeAddress.cs",
+              "RelativeToolTip": "MainEntityFramework\\Models\\employeeAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:35:36.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MainEntityFramework\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Models\\Employee.cs",
+              "RelativeToolTip": "MainEntityFramework\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:34:46.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Controllers\\MainDbContext.cs",
+              "RelativeDocumentMoniker": "MainEntityFramework\\Controllers\\MainDbContext.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\Controllers\\MainDbContext.cs",
+              "RelativeToolTip": "MainEntityFramework\\Controllers\\MainDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:28:29.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\appsettings.json",
+              "RelativeDocumentMoniker": "MainEntityFramework\\appsettings.json",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\MainEntityFramework\\MainEntityFramework\\appsettings.json",
+              "RelativeToolTip": "MainEntityFramework\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T18:25:13.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

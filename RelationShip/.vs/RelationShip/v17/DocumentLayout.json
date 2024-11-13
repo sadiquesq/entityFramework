@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\offic\\source\\repos\\RelationShip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\models\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\models\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\services\\mainservices4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\services\\mainservices4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\migrations\\maindbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\migrations\\maindbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\models\\employeeaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\models\\employeeaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\migrations\\20241109034646_jdj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\migrations\\20241109034646_jdj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|c:\\users\\offic\\source\\repos\\relationship\\relationship\\relationship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED23BD25-ABFA-47AF-9FF4-F80D3F07FE15}|RelationShip\\RelationShip.csproj|solutionrelative:relationship\\relationship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "RelationShip\\models\\Employee.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\models\\Employee.cs",
+              "RelativeToolTip": "RelationShip\\models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:17:09.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "RelationShip\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "RelationShip\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:00:47.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainServices4.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\services\\MainServices4.cs",
+              "RelativeDocumentMoniker": "RelationShip\\services\\MainServices4.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\services\\MainServices4.cs",
+              "RelativeToolTip": "RelationShip\\services\\MainServices4.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:44:25.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\models\\MainDbContext.cs",
+              "RelativeDocumentMoniker": "RelationShip\\models\\MainDbContext.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\models\\MainDbContext.cs",
+              "RelativeToolTip": "RelationShip\\models\\MainDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:17:32.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241109034646_jdj.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\Migrations\\20241109034646_jdj.cs",
+              "RelativeDocumentMoniker": "RelationShip\\Migrations\\20241109034646_jdj.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\Migrations\\20241109034646_jdj.cs",
+              "RelativeToolTip": "RelationShip\\Migrations\\20241109034646_jdj.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:46:46.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeAddress.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\models\\EmployeeAddress.cs",
+              "RelativeDocumentMoniker": "RelationShip\\models\\EmployeeAddress.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\models\\EmployeeAddress.cs",
+              "RelativeToolTip": "RelationShip\\models\\EmployeeAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:28:05.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\Program.cs",
+              "RelativeDocumentMoniker": "RelationShip\\Program.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\Program.cs",
+              "RelativeToolTip": "RelationShip\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:13:17.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\appsettings.json",
+              "RelativeDocumentMoniker": "RelationShip\\appsettings.json",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\appsettings.json",
+              "RelativeToolTip": "RelationShip\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T17:13:20.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\DTO\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "RelationShip\\DTO\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\DTO\\EmployeeDto.cs",
+              "RelativeToolTip": "RelationShip\\DTO\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:09:34.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\Migrations\\MainDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RelationShip\\Migrations\\MainDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\Migrations\\MainDbContextModelSnapshot.cs",
+              "RelativeToolTip": "RelationShip\\Migrations\\MainDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:47:23.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelationShip.csproj",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\RelationShip.csproj",
+              "RelativeDocumentMoniker": "RelationShip\\RelationShip.csproj",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\RelationShip\\RelationShip\\RelationShip.csproj",
+              "RelativeToolTip": "RelationShip\\RelationShip.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T17:11:40.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

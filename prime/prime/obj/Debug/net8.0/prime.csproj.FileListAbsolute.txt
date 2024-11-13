@@ -1,0 +1,14 @@
+C:\Users\offic\source\repos\prime\prime\bin\Debug\net8.0\prime.exe
+C:\Users\offic\source\repos\prime\prime\bin\Debug\net8.0\prime.deps.json
+C:\Users\offic\source\repos\prime\prime\bin\Debug\net8.0\prime.runtimeconfig.json
+C:\Users\offic\source\repos\prime\prime\bin\Debug\net8.0\prime.dll
+C:\Users\offic\source\repos\prime\prime\bin\Debug\net8.0\prime.pdb
+C:\Users\offic\source\repos\prime\prime\obj\Debug\net8.0\prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\source\repos\prime\prime\obj\Debug\net8.0\prime.AssemblyInfoInputs.cache
+C:\Users\offic\source\repos\prime\prime\obj\Debug\net8.0\prime.AssemblyInfo.cs
+C:\Users\offic\source\repos\prime\prime\obj\Debug\net8.0\prime.csproj.CoreCompileInputs.cache
+C:\Users\offic\source\repos\prime\prime\obj\Debug\net8.0\prime.dll
+C:\Users\offic\source\repos\prime\prime\obj\Debug\net8.0\refint\prime.dll
+C:\Users\offic\source\repos\prime\prime\obj\Debug\net8.0\prime.pdb
+C:\Users\offic\source\repos\prime\prime\obj\Debug\net8.0\prime.genruntimeconfig.cache
+C:\Users\offic\source\repos\prime\prime\obj\Debug\net8.0\ref\prime.dll

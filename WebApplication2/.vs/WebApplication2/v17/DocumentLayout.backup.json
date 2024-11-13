@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\offic\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF14EF6-4930-46D0-9E7E-61A6C329D783}|WebApplication2\\WebApplication2.csproj|c:\\users\\offic\\source\\repos\\webapplication2\\webapplication2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF14EF6-4930-46D0-9E7E-61A6C329D783}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF14EF6-4930-46D0-9E7E-61A6C329D783}|WebApplication2\\WebApplication2.csproj|c:\\users\\offic\\source\\repos\\webapplication2\\webapplication2\\model\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF14EF6-4930-46D0-9E7E-61A6C329D783}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF14EF6-4930-46D0-9E7E-61A6C329D783}|WebApplication2\\WebApplication2.csproj|c:\\users\\offic\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF14EF6-4930-46D0-9E7E-61A6C329D783}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF14EF6-4930-46D0-9E7E-61A6C329D783}|WebApplication2\\WebApplication2.csproj|c:\\users\\offic\\source\\repos\\webapplication2\\webapplication2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF14EF6-4930-46D0-9E7E-61A6C329D783}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF14EF6-4930-46D0-9E7E-61A6C329D783}|WebApplication2\\WebApplication2.csproj|c:\\users\\offic\\source\\repos\\webapplication2\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAF14EF6-4930-46D0-9E7E-61A6C329D783}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\WebApplication2\\WebApplication2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\WebApplication2\\WebApplication2\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication2\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:38:10.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwCsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:21:32.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\WebApplication2\\WebApplication2\\model\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\model\\Class.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\WebApplication2\\WebApplication2\\model\\Class.cs",
+              "RelativeToolTip": "WebApplication2\\model\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:17:27.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:14:35.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T09:20:58.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

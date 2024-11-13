@@ -1,0 +1,6 @@
+@RelationShip_HostAddress = http://localhost:5068
+
+GET {{RelationShip_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

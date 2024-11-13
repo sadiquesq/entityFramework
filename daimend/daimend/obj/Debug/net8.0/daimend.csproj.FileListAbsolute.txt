@@ -1,0 +1,14 @@
+C:\Users\offic\source\repos\daimend\daimend\bin\Debug\net8.0\daimend.exe
+C:\Users\offic\source\repos\daimend\daimend\bin\Debug\net8.0\daimend.deps.json
+C:\Users\offic\source\repos\daimend\daimend\bin\Debug\net8.0\daimend.runtimeconfig.json
+C:\Users\offic\source\repos\daimend\daimend\bin\Debug\net8.0\daimend.dll
+C:\Users\offic\source\repos\daimend\daimend\bin\Debug\net8.0\daimend.pdb
+C:\Users\offic\source\repos\daimend\daimend\obj\Debug\net8.0\daimend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\source\repos\daimend\daimend\obj\Debug\net8.0\daimend.AssemblyInfoInputs.cache
+C:\Users\offic\source\repos\daimend\daimend\obj\Debug\net8.0\daimend.AssemblyInfo.cs
+C:\Users\offic\source\repos\daimend\daimend\obj\Debug\net8.0\daimend.csproj.CoreCompileInputs.cache
+C:\Users\offic\source\repos\daimend\daimend\obj\Debug\net8.0\daimend.dll
+C:\Users\offic\source\repos\daimend\daimend\obj\Debug\net8.0\refint\daimend.dll
+C:\Users\offic\source\repos\daimend\daimend\obj\Debug\net8.0\daimend.pdb
+C:\Users\offic\source\repos\daimend\daimend\obj\Debug\net8.0\daimend.genruntimeconfig.cache
+C:\Users\offic\source\repos\daimend\daimend\obj\Debug\net8.0\ref\daimend.dll

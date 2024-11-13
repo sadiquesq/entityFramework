@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "adodemo.Controllers.adodemoController",
+    "Method": "getItems",
+    "RelativePath": "api/adodemo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "adodemo.Controllers.adodemoController",
+    "Method": "InsertStudent",
+    "RelativePath": "api/adodemo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "adodemo.Controllers.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "adodemo.Controllers.adodemoController",
+    "Method": "updateTable",
+    "RelativePath": "api/adodemo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "student",
+        "Type": "adodemo.Controllers.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "adodemo.Controllers.adodemoController",
+    "Method": "getById",
+    "RelativePath": "api/adodemo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "adodemo.Controllers.adodemoController",
+    "Method": "deleteItems",
+    "RelativePath": "api/adodemo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

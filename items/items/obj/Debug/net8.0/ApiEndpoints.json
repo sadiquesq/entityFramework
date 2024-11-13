@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "items.Controllers.Itemcontroller",
+    "Method": "GetItems",
+    "RelativePath": "api/Item",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "items.Controllers.Itemcontroller",
+    "Method": "GetItemById",
+    "RelativePath": "api/Item/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "items.Controllers.Itemcontroller",
+    "Method": "AddItem",
+    "RelativePath": "api/Item/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "newitem",
+        "Type": "items.models.Items",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

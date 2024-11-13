@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\offic\\source\\repos\\animals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F343904-54CE-418B-B321-E2EE6A8ACFC7}|animals\\animals.csproj|c:\\users\\offic\\source\\repos\\animals\\animals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F343904-54CE-418B-B321-E2EE6A8ACFC7}|animals\\animals.csproj|solutionrelative:animals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\animals\\animals\\Program.cs",
+              "RelativeDocumentMoniker": "animals\\Program.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\animals\\animals\\Program.cs",
+              "RelativeToolTip": "animals\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:53:27.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

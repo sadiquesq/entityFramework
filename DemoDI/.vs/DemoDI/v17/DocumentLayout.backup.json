@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\offic\\source\\repos\\DemoDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|c:\\users\\offic\\source\\repos\\demodi\\demodi\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|c:\\users\\offic\\source\\repos\\demodi\\demodi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|c:\\users\\offic\\source\\repos\\demodi\\demodi\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|c:\\users\\offic\\source\\repos\\demodi\\demodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|c:\\users\\offic\\source\\repos\\demodi\\demodi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|c:\\users\\offic\\source\\repos\\demodi\\demodi\\demodi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F391500A-A570-4F47-A370-A7A13DC2D146}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\demodi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoDI\\appsettings.json",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\appsettings.json",
+              "RelativeToolTip": "DemoDI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T14:24:56.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\Program.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Program.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\Program.cs",
+              "RelativeToolTip": "DemoDI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:47:08.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\Services\\StudentServices.cs*",
+              "RelativeToolTip": "DemoDI\\Services\\StudentServices.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:04:12.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\Models\\Students.cs",
+              "RelativeToolTip": "DemoDI\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:58:07.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoDI.csproj",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\DemoDI.csproj",
+              "RelativeDocumentMoniker": "DemoDI\\DemoDI.csproj",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\DemoDI.csproj",
+              "RelativeToolTip": "DemoDI\\DemoDI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T13:57:36.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\offic\\source\\repos\\DemoDI\\DemoDI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "DemoDI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:34:15.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
